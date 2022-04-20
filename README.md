@@ -11,6 +11,7 @@ int main() {
   LOG_INFO("This is %d logging statement.", 1);
   return 0;
 }
+
 Log to file:
 
 #include "log.h"
